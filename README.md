@@ -53,7 +53,7 @@ const mustafa = {
 **Frontend & Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angularjs,tailwind,nodejs,express&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,nodejs,express&perline=10" />
 </p>
 
 **Data & Tools**
